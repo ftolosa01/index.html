@@ -1,0 +1,18 @@
+body{
+	background-color: lightblue; 
+}
+div{
+	color: blue;
+}
+h5{
+	text-align: center;
+}
+.container-fluid{
+	background-color: green;
+}
+b{
+	text-align: center;
+	color: black;
+	size: 20px;
+
+}
